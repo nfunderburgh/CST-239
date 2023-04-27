@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"app","l":"MyArray"},{"p":"app","l":"MyNumberArray"},{"p":"app","l":"Storage"}]

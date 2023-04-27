@@ -1,0 +1,6 @@
+[
+	{"name":"Light Armor","description":"armor made of Light material","price":1.99,"quantity":4},
+	{"name":"Medium Armor","description":"armor made of medium material","price":4.79,"quantity":10},
+	{"name":"Heavy Armor","description":"armor made of heavy material","price":6.79,"quantity":1}
+]
+

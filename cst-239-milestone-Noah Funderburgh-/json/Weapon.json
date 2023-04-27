@@ -1,0 +1,4 @@
+[
+	{"name":"Sword","description":"a iron sword of low quality","price":5.99,"quantity":10},
+	{"name":"Axe","description":"a one sided axe made of iron","price":4.99,"quantity":1}
+]
